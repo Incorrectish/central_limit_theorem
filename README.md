@@ -8,4 +8,4 @@ Rustc
 
 Steps to install:
 Clone this directory
-cargo --run <samples for mean> <data points> <distribution>
+cargo --run \<samples for mean> \<data points> <distribution>
